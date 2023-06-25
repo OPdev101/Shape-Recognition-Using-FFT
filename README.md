@@ -21,8 +21,6 @@ Key Features:
 
 6: Visualization and Plotting: The system generates visual outputs, such as contour plots, frequency spectra, and labeled shape identification results, aiding in the analysis and understanding of the shape recognition process.
 
-The Shape Identification System repository provides a powerful tool for researchers, developers, and enthusiasts interested in shape recognition, computer vision, and pattern recognition. By leveraging the implemented algorithm and code, users can efficiently identify and classify shapes in a wide range of applications, including object recognition, image analysis, and industrial automation.
-
 # Results
 1.	Image Pre-Processing:
 
@@ -109,4 +107,12 @@ The Shape Identification System repository provides a powerful tool for research
 
 ![image](https://github.com/OPdev101/Shape-Recognition-Using-FFT/assets/113836057/247fa158-9fd2-433a-afde-675179351f3d)
  
+# Conclusion
 
+The Shape Identification System repository offers a robust and efficient solution for shape recognition in digital images. By leveraging a pattern recognition algorithm based on contour analysis, signal processing, and frequency spectrum analysis, the system achieves accurate identification and classification of shapes.
+
+The implemented algorithm demonstrates its ability to handle variations in shape orientation, size/scale, and reference coordinate system location, making it highly versatile in real-world scenarios. The codebase's modularity and well-structured design enable easy customization and integration into existing projects.
+
+With comprehensive documentation and visualization capabilities, users can quickly grasp the underlying algorithm, understand the code structure, and visualize the shape identification process. The repository's compatibility with different versions of MATLAB ensures broad accessibility and usability.
+
+The Shape Identification System repository serves as a valuable resource for researchers, developers, and enthusiasts working in the fields of shape recognition, computer vision, and pattern recognition. By utilizing the provided code and algorithm, users can enhance their image analysis workflows and effectively solve shape recognition challenges in various applications.
