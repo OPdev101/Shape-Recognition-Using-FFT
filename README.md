@@ -17,9 +17,7 @@ Key Features:
 
 4: Code Reusability: The codebase is modular and well-structured, facilitating easy customization and extension. Users can modify the code to incorporate additional shape recognition criteria or integrate it into larger image processing pipelines.
 
-5: Comprehensive Documentation: The repository includes detailed documentation, explaining the underlying algorithm, code structure, and usage instructions. Users can quickly understand and utilize the system for their shape identification tasks.
-
-6: Visualization and Plotting: The system generates visual outputs, such as contour plots, frequency spectra, and labeled shape identification results, aiding in the analysis and understanding of the shape recognition process.
+5: Visualization and Plotting: The system generates visual outputs, such as contour plots, frequency spectra, and labeled shape identification results, aiding in the analysis and understanding of the shape recognition process.
 
 # Results
 1.	Image Pre-Processing:
