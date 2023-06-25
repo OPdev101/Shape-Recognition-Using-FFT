@@ -1,4 +1,4 @@
-![image](https://github.com/OPdev101/Shape-Recognition-Using-FFT/assets/113836057/f68f1339-5178-4059-860d-6dc6d7a0972b)# Shape-Recognition-Using-FFT
+# Shape-Recognition-Using-FFT
 
 ![image](https://github.com/OPdev101/Shape-Recognition-Using-FFT/assets/113836057/2b9affa8-dae1-49d8-8933-b97c8513192d)
 
