@@ -1,7 +1,7 @@
 # Shape-Recognition-Using-FFT
-<p align="center">
+
 ![image](https://github.com/OPdev101/Shape-Recognition-Using-FFT/assets/113836057/2b9affa8-dae1-49d8-8933-b97c8513192d)
-</p>
+
 The Shape Identification System is a MATLAB-based repository that provides a framework for accurately identifying and classifying shapes in digital images. The system employs a pattern recognition algorithm that combines contour analysis, signal processing, and frequency spectrum analysis to achieve robust shape recognition capabilities.
 
 ![image](https://github.com/OPdev101/Shape-Recognition-Using-FFT/assets/113836057/5e576e10-75b7-49c1-9d63-501063465362)
