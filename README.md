@@ -50,7 +50,9 @@ The Shape Identification System repository provides a powerful tool for research
 ![image](https://github.com/OPdev101/Shape-Recognition-Using-FFT/assets/113836057/24d4e8f3-ac11-43b0-92ee-2969e31b1b3c)
 
 6.	Training Shapes – Triangle:
- ![image](https://github.com/OPdev101/Shape-Recognition-Using-FFT/assets/113836057/ad440032-1bd0-4746-8ca3-80f9691ba7af)
+
+
+![image](https://github.com/OPdev101/Shape-Recognition-Using-FFT/assets/113836057/ad440032-1bd0-4746-8ca3-80f9691ba7af)
 
 7.	Training Shapes – Star:
 
