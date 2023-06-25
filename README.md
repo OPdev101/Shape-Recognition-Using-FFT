@@ -32,32 +32,32 @@ The Shape Identification System repository provides a powerful tool for research
 2.	Training Shapes – Semi Stadium:
 
 
-![image](https://github.com/OPdev101/Shape-Recognition-Using-FFT/assets/113836057/65bf3cb5-7e08-4777-b289-92191855c4bb)
+
 
 3.	Training Shapes – Rectangle:
 
 
-![image](https://github.com/OPdev101/Shape-Recognition-Using-FFT/assets/113836057/4bcc0d8b-a21c-4b86-91a5-77c159c1b940)
+
 
 4.	Training Shapes – Oval:
 
 
-![image](https://github.com/OPdev101/Shape-Recognition-Using-FFT/assets/113836057/845ad529-d24c-4aa5-9b69-5d9ad37633f7)
+
 
 5.	Training Shapes – Hexagon:
 
 
-![image](https://github.com/OPdev101/Shape-Recognition-Using-FFT/assets/113836057/24d4e8f3-ac11-43b0-92ee-2969e31b1b3c)
+
 
 6.	Training Shapes – Triangle:
 
 
-![image](https://github.com/OPdev101/Shape-Recognition-Using-FFT/assets/113836057/ad440032-1bd0-4746-8ca3-80f9691ba7af)
+
 
 7.	Training Shapes – Star:
 
 
-![image](https://github.com/OPdev101/Shape-Recognition-Using-FFT/assets/113836057/37e871e7-f7bb-49d0-b669-ead819a0e08b)
+
  
 8.	Test Shape Identification – Semi Stadium:
 
